@@ -3,7 +3,7 @@ Project 1, Group 8
 
 #### GitHub Repo Link: https://github.com/aaronhdm/Have-A-Laugh
 
-#### GitHub Live Deployment Link: https://sergeyholin.github.io/Have-A-Laugh/
+#### GitHub Live Deployment Link: https://aaronhdm.github.io/Have-A-Laugh/
 
  ABOUT THE APP: Have-A-Laugh is the final destination for all your humor needs! It's a simple app that that contains several humor categories to brighten your day. It has memes, random jokes, pun jokes, yomama jokes, and of course, Chuck Norris jokes. Have a need to brighten your mood? Stop on by at Have-A-Laugh, good times guaranteed!
 
