@@ -1,7 +1,7 @@
 # Have-A-Laugh
 Project 1, Group 8
 
-#### GitHub Repo Link: https://github.com/sergeyholin/Have-A-Laugh
+#### GitHub Repo Link: https://github.com/aaronhdm/Have-A-Laugh
 
 #### GitHub Live Deployment Link: https://sergeyholin.github.io/Have-A-Laugh/
 
